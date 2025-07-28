@@ -95,3 +95,6 @@ See 'git help git' for an overview of the system.
 Deccan Mirror 
 Pune Times 
 Economic Times
+Deccan 
+Pune 
+Econimc 
